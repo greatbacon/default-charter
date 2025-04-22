@@ -27,10 +27,18 @@ The name of the orginazation shall be {ORGINAZATION}, a {TYPE OF ORG}
 1) NOTE: This does not legally incorporate the organization. You should consult your local laws & possibly a lawyer for that.
 1) This Article no longer holds any power and should be removed from the [CHARTER](./CHARTER.md) once the OWG have signed off on the [CHARTER](./CHARTER.md).
 ## Article 1 - Membership
+1) Membership is limited to dues paying members.
+1) Dues are $20 a month.
 ### Section I - Joining
+1) {OPTIONAL} membership is open to anyone who wants to join
+1) {OPTIONAL} OR new members must be invited by existing members. Existing members get {X} of invites per {y}
 ### Section II - Leaving
+1) Members may leave whenever they want.
+1) In order to leave, simply cancel your dues payment & let the Secretary know.
 ### Section III - The Path of a Member
+1)
 ### Section IV - Probation & Expulsion
+1) 
 ## Article 2 - Decision Making Meetings
 ## Article 3 - Executive Officers: Powers and Duties
 ## Article 4 - Steering Committee
