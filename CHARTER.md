@@ -40,6 +40,23 @@ The name of the orginazation shall be {ORGINAZATION}, a {TYPE OF ORG}
 ### Section IV - Probation & Expulsion
 1) 
 ## Article 2 - Decision Making Meetings
+### Section 1 - Business Meetings
+1) The Steering Committee as defined in ARTICLE 4 is responsible for planning and facilitating the highest decision making meetings of the organization, known as Business Meetings.
+1) Business Meetings are open to all members in good standing.
+1) Matters requiring a Business Meeting to be called are resolutions related to: 
+    1) large or recurring money expenses exceeding $50 
+    1) matters of external endorsement or coallition building
+    1) broad strategic plan approvals
+    1) changes to the charter (see ARTICLE 8).
+1) A Business Meeting should be held at least {once a month at the same time and cadence}
+1) Any additional Business Meetings called for in emergency by the Steering Committee must have {72 hours} notice given to the membership.
+1) A resolution requires a quroum of {10% of the membership to vote yes or no. Absentention or non/under voting does not contribute to the quroum.}
+### Section 2 - Steering Commitee Meetings
+1) The Steering Committee as defined in ARTICLE 4 should also host a meeting for their needs & to create a public forum for membership to engage directly with them every {2 weeks}.
+### Section 3 - Organizing Council Meetings
+1) The Steering Committe as defined in ARTICLE 4 is also responsible for planning and facilitating a coordinating and decision making meetings known as Organizing Council meetings.
+1) Organizing Council meetings are a space for the Steering Committee to meet with an elected leader OR representative of the organizations' constiuent Committees (as defined in ARTICLE 6, SECTION II) & Branches (as defined in ARTICLE 7, SECTION III) to meet and discuss strategic & tactical plans for the organization.
+1) Organizing Council meetings should be held only {once a month}.
 ## Article 3 - Executive Officers: Powers and Duties
 ## Article 4 - Steering Committee
 ## Article 5 - Harassment/Grievance Process & Officers
