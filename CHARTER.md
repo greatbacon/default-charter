@@ -6,13 +6,13 @@ The name of the orginazation shall be {ORGINAZATION}, a {TYPE OF ORG}
 
 # Core Values
 1) Don't be a dick.
+1) No tolerance of any sort for hate and discrimination such as racism, sexism, ableism, transphobia, etc.
+1) No stupid questions, asking questions is how we learn from each other.
+1) We are heare to have fun & make something cool for ourselves, not get rich and steal from each other.
 1) {Other values go here}
 1) {Having at least 6 is a good start}
 1) {10 is probably the magic number}
 1) 
-1)
-1)
-1)
 1)
 1)
 
@@ -27,6 +27,7 @@ The name of the orginazation shall be {ORGINAZATION}, a {TYPE OF ORG}
 1) NOTE: This does not legally incorporate the organization. You should consult your local laws & possibly a lawyer for that.
 1) This Article no longer holds any power and should be removed from the [CHARTER](./CHARTER.md) once the OWG have signed off on the [CHARTER](./CHARTER.md).
 ## Article 1 - Membership
+### Section 0 - Terms
 1) Membership is limited to dues paying members.
 1) Dues are $20 a month.
 ### Section I - Joining
@@ -36,9 +37,45 @@ The name of the orginazation shall be {ORGINAZATION}, a {TYPE OF ORG}
 1) Members may leave whenever they want.
 1) In order to leave, simply cancel your dues payment & let the Secretary know.
 ### Section III - The Path of a Member
-1)
+* Membership in the organization generally follows a 5 step cycle
+    1) New Member - New member's have recently joined. 
+        * They should be welcomed and taught the ways of the organization.
+        * They should be assigned a "Welcome Buddy" when they join. Someone who's responsibility is to make sure they feel welcome & are known to be safe to ask any question of.
+    1) Core Member - Core Member's have usually been in the org for at least 6 months.
+        * They know enough that they should be able to teach New Member's some things
+        * They can show up and keep the gears turning, even if they don't quite know everything about the organization.
+        * If people leave/drop off & then come back, this is usually where they land
+    1) Veteran Member - Usually after a couple of years, these veterans know the ropes.
+        * Either have specialized into a part of the org, or have a broad generalized knowledge of it
+        * This is the pool from which leadership is drawn
+        * Often an informal leader within the org regardless of official titles
+    1) Leaders - Those responsible for moving the org forward
+        * Planning, strategy, operations - If Member's are the Body, Leaders are the Brains
+        * Healthy orgs keep leadership rotating. Stagnant leadership means stagnant orgs
+        * Ideally democratically elected, serving an 18 month term. 6 months being taught by a Mentor, 6 months in full leadership, 6 months as a Mentor.
+    1) Mentors - When a member leaves leadership, it is important for them to stick around and mentor the incoming leadership
+        * Once their 6 months as Mentor are up, step back, recharge, and come back as a Veteran Member when you're ready.
+* Unengaged or Disengaged Members
+    * Usually by virtue of lack of engagement, burnout, life events, or a fail to teach org skills properly, members will drop off the path and land here.
+    * Any other spot on the membership path can lead here
+    * It is Community that will bring members who land here back into the fold.
+* No matter where they fall on the path, as long as a Member is fulfilling the terms of Membership outlined in Article 1:Section 0, they are considered a Member in Good Standing.
 ### Section IV - Probation & Expulsion
-1) 
+1) Any Member (as defined in Article 1:Section 0) who is found in violation of the rules of this Organization may face penalties.
+1) In particular, on matters of Harrasments & Grivences (as outlined in Article 5) if they are found to be in violation of those articles, Members may face the most severe penalties within the Organization
+1) In the case of a judgement by HGO Officers, pursuant to processes outlined in Article 5, if a Member is found to have violated the rules sufficent to be penalized by these outcomes, they will face the following consequences:
+    1) For Probations: 
+        1) Members will be subject to Read Only permissions on Organization systems.
+        1) Members will be barred and ejected from the Organization's physical spaces.
+        1) Probation is a temporary penalty, put in place for between 1 day to 1 year.
+    1) For Expulsions:
+        1) A Member facing Expulsion will no longer be considered a Member.
+        1) These ex-Members will have their accounts terminated & removed from Organization's systems.
+        1) ex-Members will also be barred and ejected from the Organization's physical spaces.
+        1) ex-Members may attempt to re-join the Organization after 1 year.
+    1) For Permanant Expulsions:
+        1) In particular, extreme cases or for repeated violations even in the face of repeated Probations & Expulsions, Members may face Permantant Expulsion.
+        1) This carries all the penalties of an Expulsion, except that the ex-Member will never be allowed to re-join the Organization.
 ## Article 2 - Decision Making Meetings
 ### Section 1 - Business Meetings
 1) The Steering Committee as defined in ARTICLE 4 is responsible for planning and facilitating the highest decision making meetings of the organization, known as Business Meetings.
