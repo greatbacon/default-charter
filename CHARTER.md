@@ -8,6 +8,9 @@ The name of the orginazation shall be {ORGINAZATION}, a {TYPE OF ORG}
 1) Don't be a dick.
 1) No tolerance of any sort for hate and discrimination such as racism, sexism, ableism, transphobia, etc.
 1) No stupid questions, asking questions is how we learn from each other.
+1) We are here to have fun & make something cool for ourselves, not get rich and steal from each other.
+1) No tolerance of any sort for hate and discrimination such as racism, sexism, ableism, transphobia, etc.
+1) No stupid questions, asking questions is how we learn from each other.
 1) We are heare to have fun & make something cool for ourselves, not get rich and steal from each other.
 1) {Other values go here}
 1) {Having at least 6 is a good start}
@@ -26,6 +29,7 @@ The name of the orginazation shall be {ORGINAZATION}, a {TYPE OF ORG}
 1) Once all members of the OWG have signed off on the [CHARTER](./CHARTER.md) & the first Steering Committee has been determined, everyone should sign a printed copy of the [CHARTER](./CHARTER.md). Congrats, you have officially formed your new orginzation!
 1) NOTE: This does not legally incorporate the organization. You should consult your local laws & possibly a lawyer for that.
 1) This Article no longer holds any power and should be removed from the [CHARTER](./CHARTER.md) once the OWG have signed off on the [CHARTER](./CHARTER.md).
+
 ## Article 1 - Membership
 ### Section 0 - Terms
 1) Membership is limited to dues paying members.
@@ -97,9 +101,10 @@ The name of the orginazation shall be {ORGINAZATION}, a {TYPE OF ORG}
 ## Article 3 - Executive Officers: Powers and Duties
 ## Article 4 - Steering Committee
 ## Article 5 - Harassment/Grievance Process & Officers
-## Article 6 - Creating New Orginzational Bodies
+## Article 6 - Creating New Sub-Orginzational Bodies
 ### Section I   - Working Groups
 ### Section II  - Committees
 ### Section III - Branches
-## Article 7 - Elections & Nominations
-## Article 8 - Amending the Charter
+## Article 7 - Working with or integrating with other top level Orginizational Bodies
+## Article 8 - Elections & Nominations
+## Article 9 - Amending the Charter
